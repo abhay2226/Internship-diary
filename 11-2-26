@@ -1,8 +1,11 @@
 Work Summary:
- Session was conducted on CSS Layouts, Flexbox, and Responsive Design Basics as part of the internship training program. The objective of this session was to understand modern layout techniques in CSS and learn how to create responsive web pages that adapt to different screen sizes.
-The session began with an introduction to CSS Layout concepts, where we explored how elements are positioned on a webpage. Traditional layout techniques such as block and inline elements were briefly reviewed, followed by modern layout systems.
-A major focus of the session was on Flexbox (Flexible Box Layout). We learned how Flexbox helps in aligning and distributing space among elements efficiently. Important properties such as display: flex, flex-direction, justify-content, align-items, flex-wrap, and gap were explained with practical examples. The concept of main axis and cross axis was also clarified to understand alignment behavior properly.
-The session then covered Responsive Design Basics, emphasizing the importance of designing websites that work seamlessly across desktops, tablets, and mobile devices. We were introduced to concepts like fluid layouts, percentage-based widths, viewport units, and media queries. The use of @media rules to apply different styles for different screen sizes was demonstrated.
+Session was conducted on CSS Layouts, Flexbox, and Responsive Design Basics 
+ Traditional layout techniques such as block and inline elements were briefly reviewed, followed by modern layout systems.
+A major focus of the session was on Flexbox (Flexible Box Layout). We learned how Flexbox helps in aligning and distributing space among elements efficiently. 
+Important properties such as display: flex, flex-direction, justify-content, align-items, flex-wrap, and gap were explained with practical examples. 
+The session then covered Responsive Design Basics, emphasizing the importance of designing websites that work seamlessly across desktops, tablets, and mobile devices.
+We were introduced to concepts like fluid layouts, percentage-based widths, viewport units, and media queries. 
+The use of @media rules to apply different styles for different screen sizes was demonstrated.
 
 
 
