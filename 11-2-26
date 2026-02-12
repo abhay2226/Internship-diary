@@ -1,6 +1,6 @@
 Work Summary:
 Session was conducted on CSS Layouts, Flexbox, and Responsive Design Basics 
- Traditional layout techniques such as block and inline elements were briefly reviewed, followed by modern layout systems.
+Traditional layout techniques such as block and inline elements were briefly reviewed, followed by modern layout systems.
 A major focus of the session was on Flexbox (Flexible Box Layout). We learned how Flexbox helps in aligning and distributing space among elements efficiently. 
 Important properties such as display: flex, flex-direction, justify-content, align-items, flex-wrap, and gap were explained with practical examples. 
 The session then covered Responsive Design Basics, emphasizing the importance of designing websites that work seamlessly across desktops, tablets, and mobile devices.
