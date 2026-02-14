@@ -1,0 +1,19 @@
+Work Summary :
+
+The session began with an introduction to JavaScript and its role in web development. We discussed how JavaScript adds interactivity to web pages and how it works alongside HTML and CSS. The importance of using JavaScript for dynamic content, form validation, and event handling was explained.
+Variables in JavaScript. We learned the difference between var, let, and const, and understood when to use each. The concept of variable scope (global and block scope) was also discussed with examples to clarify how variables behave in different contexts.
+The session then covered Data Types in JavaScript. We studied primitive data types such as string, number, boolean, undefined, and null, along with non-primitive types like objects and arrays. Practical examples were demonstrated to show how different data types are used in real programs.
+After that, we learned about Operators in JavaScript. Arithmetic operators, assignment operators, comparison operators, and logical operators were explained with examples.
+Special emphasis was given to the difference between == and === to ensure proper comparison practices in programming. 
+Finally, we learned how to Write JavaScript in the Browser. The three methods—inline, internal, and external JavaScript—were explained. 
+We also practiced using console.log(), alert(), and basic script linking in HTML files. 
+A small hands-on activity was conducted to implement simple JavaScript logic in a webpage.
+
+
+
+Learning Outcomes :
+
+Understood the fundamentals of JavaScript
+ Learned how to declare and use variables effectively
+ Gained knowledge of different data types in JavaScript
+ Understood the use of operators for calculations and logical conditions
