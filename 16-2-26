@@ -1,5 +1,10 @@
 WORK SUMMARY :
-Arrays & objects ,Common Java Script  methods along with some practical examples
+Creating arrays and objects, accessing their elements, updating values, and performing operations such as adding and removing items. Important concepts like array indexing, 
+object properties, nested objects, and iterating through arrays and objects using loops .
+Session Continued with Methods in the array like push(), pop(), shift(),unshift() and some Object Methods as Objects.key() , Objects.value with real world examples
+
 
 LEARNING OUTCOMES :
-Got to known about difference between Arrays and Objects also learnt some methods such as push , pop, slice and splice
+We Learnt the fundamentals of arrays and objects in java script
+Learnt manipulation and iteration in array
+Gained the knowledge of  commonly used Java Script methods
