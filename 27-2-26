@@ -1,3 +1,9 @@
 WORK SUMMARY :
 Studied React Router fundamentals and configured routing for a SPA using Browser Router, Routes, and Route.
 Implemented multi-page navigation with separate components and enabled smooth client-side transitions without page reloads.
+
+
+LEARNING OUTCOMES :
+
+Learned to configure routing using BrowserRouter, Routes, and Route for structured navigation.
+Understood  to create and organize multiple components for different pages within a SPA.
