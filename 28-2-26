@@ -1,0 +1,5 @@
+WORK SUMMARY :Added dynamic routes and navigation using Link and use Params, and handled 404 pages with a fallback route. 
+Tested route flow, optimized component structure, and ensured clean, maintainable navigation logic across the application.
+
+LEARNING OUTCOMES :
+Learned to implement dynamic routing in React applications using route parameters.
