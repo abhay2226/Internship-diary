@@ -1,0 +1,9 @@
+WORK SUMMARY :
+A task was given  to developed a simple Mood Tracker application using React.js where users can select their current mood (such as happy, sad, excited, or tired).
+Implemented React state management using the use State hook to dynamically update the UI based on the selected mood. 
+Applied event handling and conditional rendering to change the interface in real time whenever the user selects a different mood.
+
+LEARNING OUTCOMES :
+The Assignment was helpful to understood the concept of state management in React using the use State hook , 
+conditional rendering to update UI dynamically based on user input.
+Improved understanding of component-based architecture and interactive UI design in React.
