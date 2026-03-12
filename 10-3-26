@@ -1,0 +1,8 @@
+WORK SUMMARY :
+Task was given on converting the react.js app to SPA using React routing.  Implemented routing functionality to navigate between different pages such as Home, About
+and Contact without reloading the page. Used React Router components like Browser Router, Routes, and Route to define and manage application routes. 
+Designed a navigation bar with links to allow users to switch between pages smoothly within the application.
+
+LEARNING OUTCOMES :
+·  Learned the concept of Single Page Applications (SPA) and how routing works in React.
+·  Gained practical knowledge of React Router for handling navigation between multiple components/pages.
