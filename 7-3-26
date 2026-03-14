@@ -1,0 +1,10 @@
+WORK SUMMARY:
+Learned about NPM (Node Package Manager) and package management in Node.js projects. Understood how to initialize a project using npm init, install dependencies
+with npm install, and manage packages using package.json. Practiced creating a basic server using the built-in http module to handle client requests and send responses. 
+This session helped in understanding the basic working of a Node.js server.
+
+
+LEARNING OUTCOMES :
+Learned how to initialize and manage Node.js projects using NPM.
+Understood the purpose of package.json, node_modules, and dependency management.
+Gained practical understanding of creating a basic server using the http module and handling client requests.
