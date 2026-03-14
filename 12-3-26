@@ -1,0 +1,8 @@
+WORK SUMMARY :
+Assignment was given to develop a  Weather Dashboard that fetches real-time weather data from a public API and displays key information such as temperature, humidity,  
+and weather conditions for user-searched locations. Designed a responsive and user-friendly interface to present weather details clearly.
+Implemented asynchronous API requests to retrieve and update data dynamically.
+
+LEARNING OUTCOMES :
+Gained experience in integrating public APIs to fetch and display real-time weather data in a web application.
+Learned to handle asynchronous API requests, loading states, and error handling for better application reliability.
