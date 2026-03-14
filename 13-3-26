@@ -1,0 +1,7 @@
+WORK SUMMARY :
+Assignment was  given to developed the Smart Signup Form interface with input fields for user details such as email and password. 
+Implemented client-side validation to verify correct email format and added password strength checks to ensure secure input requirements.
+
+LEARNING OUTCOMES :
+Learned how to implement form validation for inputs such as email format and password strength.
+Gained experience in handling user input and form state management in a web application.
