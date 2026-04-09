@@ -1,0 +1,7 @@
+WORK SUMMARY :
+Assignment was given on basic routes using Express.js for a bookstore application. 
+I built simple endpoints to handle books and authors  
+This helped me understand how routing works and how client requests are handled in a backend server.
+
+LEARNING OUTCOMES :
+basics of Express.js routing and how to create API endpoints.  I understood how client requests are handled using request and response objects,
