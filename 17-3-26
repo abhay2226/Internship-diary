@@ -1,0 +1,9 @@
+WORK SUMMARY :
+The session began with an introduction to MVC (Model-View-Controller) Architecture. We learned that MVC is a design pattern used to separate an application
+into three main components: Model, View, and Controller. The Model manages the data and business logic, the View is responsible for the user interface, and the
+Controller acts as an intermediary between the Model and View. The trainer explained how this separation improves code organization, scalability, and maintainability
+in web applications.
+
+LEARNING OUTCOMES :
+Understood the concept and structure of MVC Architecture
+Learned the roles of Model, View, and Controller in application development
