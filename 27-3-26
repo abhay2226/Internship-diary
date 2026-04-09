@@ -1,0 +1,8 @@
+WORK SUMMARY :
+The session continued with JWT (JSON Web Token) authentication. We learned how JWT is used to securely transmit user information between the client 
+and server after successful login. The trainer explained the structure of a JWT (header, payload, and signature) and how it helps maintain stateless authentication in 
+modern web applications.
+
+LEARNING OUTCOMES:
+Understood JWT authentication and its practical implementation
+Learned the concepts of authorization and role-based access control (RBAC)
