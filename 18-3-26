@@ -1,0 +1,8 @@
+WORK SUMMARY :
+Assignment was given on managing and retrieving file and folder data. Implemented structured data retrieval functionality to ensure smooth 
+organization and access within the system. During development, encountered delay issues while performing copy and cut operations, which highlighted challenges
+related to asynchronous data handling. Analyzed potential causes such as loading delays and state management during file operations, and explored ways to address them.
+
+LEARNING OUTCOMES :
+This process helped in gaining a deeper understanding of file handling logic, error scenarios, and system behavior. Overall, the
+assignment provided practical experience in debugging issues and optimizing user interactions in file management systems.
