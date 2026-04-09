@@ -1,0 +1,10 @@
+WORK SUMMARY :
+The session began with an introduction to REST APIs. We learned that REST (Representational State Transfer) is an architectural style used for building web services that 
+communicate over HTTP. The trainer explained how REST APIs allow applications to interact with servers by sending requests and receiving responses, usually in JSON format.
+This helped us understand how frontend and backend systems communicate in real-world application followed by API Testing using Postman, as part of the web development
+training program.
+
+
+LEARNING OUTCOMES :
+Understood the fundamentals of REST APIs and client-server communication
+Learned how to test APIs using Postman
