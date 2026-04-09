@@ -1,0 +1,10 @@
+WORK SUMMARY :
+The final part of the session focused on Logging. Logging was explained as the process of recording application events, errors, and 
+important activities for monitoring and debugging purposes. The trainer demonstrated how logs can help developers trace issues, understand system behavior, and 
+maintain application health. Different log levels such as info, warning, and error were also introduced, showing how each level serves a specific purpose in tracking
+application events.
+
+
+
+LEARNING OUTCOMES :
+Understood how to manage and display errors effectively
