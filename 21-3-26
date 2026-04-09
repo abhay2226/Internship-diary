@@ -1,0 +1,6 @@
+WORK SUMMARY :
+Worked on the “Hello Server” assignment, which focused on building a basic server using Node.js to understand backend fundamentals. 
+Created a server capable of handling multiple routes and returning different messages based on the requested URL. 
+Implemented routing logic to differentiate responses for endpoints such as home, about, and contact.
+LEARNING OUTCOMES :
+Gained hands-on experience with handling HTTP requests and responses using core Node.js modules or Express
