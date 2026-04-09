@@ -1,0 +1,6 @@
+WORK SUMMARY :
+Session started with Mini Project focused on building a Backend API with authentication and integrating it with a React frontend. The objective of this session was to understand how full-stack applications function by connecting the frontend and backend while handling real-world features like authentication, file uploads, and image processing.
+The session began with an introduction to backend API development using Node.js. The trainer explained how APIs handle client requests and send responses, forming the backbone of any web application. We implemented authentication mechanisms, learning how user registration and login systems work securely using tokens.
+
+LEARNING OUTCOMES :
+Developed practical experience in building backend APIs with authentication
