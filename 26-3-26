@@ -1,0 +1,9 @@
+WORK SUMMARY:
+Session continued with password hashing, which is a crucial security practice. The trainer explained that passwords should never be stored in plain text. Instead, 
+they are converted into a hashed format using algorithms like bycrypt. Hashing ensures that even if the database is compromised, the original passwords cannot be easily 
+retrieved. We also learned about salting, which adds an extra layer of security to hashed passwords
+
+
+LEARNING OUTCOMES:
+Gained knowledge of password hashing and security practices
+Understood JWT authentication and its working mechanism
