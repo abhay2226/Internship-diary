@@ -1,0 +1,10 @@
+WORK SUMMARY :
+Session  continued with   connecting the React frontend with the Node backend. The trainer demonstrated how frontend applications communicate with backend APIs
+using HTTP requests. We learned how to send and receive data, handle responses, and ensure smooth integration between the user interface and server-side logic along with
+environment variables. We understood how sensitive information such as API keys, database URLs, and secret tokens can be securely stored and managed using 
+environment configuration files, ensuring better security and scalability.
+
+LEARNING OUTCOMES:
+Learned how to connect a React frontend with a Node.js backend
+Understood the importance and usage of environment variables
+Gained knowledge of file uploads and image handling in web applications
