@@ -1,5 +1,131 @@
 Work Summary :
 In this session assignment was given on Creating a Personal Profile adding the images and  layout design helps to understand  Html and CSS concepts
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Personal Profile</title>
+
+    <!-- Link to External CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 class="center">Abhay Dixith</h1>
+    <h3 class="center">Student | Web Developer</h3>
+
+    <hr>
+    <div class="center">
+        <img src="https://via.placeholder.com/150" alt="Profile Photo">
+    </div>
+
+    <hr>
+    <!-- About Me -->
+    <h2>About Me</h2>
+    <p>
+        Hello! I am Abhay Dixith, a Computer Science student passionate about web development and software engineering.
+        I enjoy building projects using modern technologies like React.js, Node.js, and MongoDB.
+    </p>
+
+    <!-- Skills -->
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>React.js</li>
+        <li>Node.js & Express.js</li>
+        <li>MongoDB</li>
+        <li>C Programming</li>
+    </ul>
+
+    <!-- Hobbies -->
+    <h2>Hobbies</h2>
+    <ol>
+        <li>Coding</li>
+        <li>Learning new technologies</li>
+        <li>Playing games</li>
+        <li>Watching tech videos</li>
+    </ol>
+
+    
+    <h2>My Links</h2>
+    <p>
+        <a href="https://github.com/" target="_blank">GitHub</a><br>
+        <a href="https://linkedin.com/" target="_blank">LinkedIn</a><br>
+        <a href="https://www.google.com" target="_blank">Visit Google</a>
+    </p>
+
+    
+    <h2>Contact Information</h2>
+    <p>
+        Email: abhay@example.com <br>
+        Phone: +91 9876543210
+    </p>
+
+    
+
+</body>
+</html>
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    margin: 20px;
+    color: #333;
+}
+
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+h2 {
+    color: #34495e;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+}
+
+h3 {
+    color: #7f8c8d;
+}
+
+
+img {
+    border-radius: 50%;
+    border: 3px solid #3498db;
+    width: 150px;
+    height: 150px;
+}
+
+
+p {
+    line-height: 1.6;
+}
+
+
+ul, ol {
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+
+a {
+    text-decoration: none;
+    color: #2980b9;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #e74c3c;
+}
 
 
 Learning Outcomes :
