@@ -1,0 +1,11 @@
+
+Work Summary :
+Developed user authentication system with signup and login features.
+Passwords were securely hashed using bcrypt before storing in the database. 
+Implemented token-based authentication using JSON Web Token. Created middleware to verify tokens and
+protect private routes. Ensured secure handling of user credentials and sessions.
+
+
+LEARNING OUTCOMES :
+Learned to implement secure authentication using bcrypt and JSON Web Token.
+Gained understanding of protecting routes and managing user sessions using middleware.
