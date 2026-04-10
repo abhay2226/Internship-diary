@@ -1,5 +1,76 @@
 Work Summary
 Brushed up  basics of Html and Task was assigned to create a simple web page
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Personal Profile</title>
+</head>
+<body>
+
+    <!-- Heading -->
+    <h1 align="center">Abhay Dixith</h1>
+    <h3 align="center">Student | Web Developer</h3>
+
+    <hr>
+
+    <!-- Profile Image -->
+    <center>
+        <img src="https://via.placeholder.com/150" alt="Profile Photo" width="150" height="150">
+    </center>
+
+    <hr>
+
+    <!-- About Me -->
+    <h2>About Me</h2>
+    <p>
+        Hello! I am Abhay Dixith, a Computer Science student passionate about web development and software engineering.
+        I enjoy building projects using modern technologies like React.js, Node.js, and MongoDB.
+    </p>
+
+    <!-- Skills -->
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>React.js</li>
+        <li>Node.js & Express.js</li>
+        <li>MongoDB</li>
+        <li>C Programming</li>
+    </ul>
+
+    <!-- Hobbies -->
+    <h2>Hobbies</h2>
+    <ol>
+        <li>Coding</li>
+        <li>Learning new technologies</li>
+        <li>Playing games</li>
+        <li>Watching tech videos</li>
+    </ol>
+
+    <!-- Links -->
+    <h2>My Links</h2>
+    <p>
+        <a href="https://github.com/" target="_blank">GitHub</a><br>
+        <a href="https://linkedin.com/" target="_blank">LinkedIn</a><br>
+        <a href="https://www.google.com" target="_blank">Visit Google</a>
+    </p>
+
+    <!-- Contact Info -->
+    <h2>Contact Information</h2>
+    <p>
+        Email: abhay@example.com <br>
+        Phone: +91 9876543210
+    </p>
+
+    <hr>
+
+    
+
+</body>
+</html>
+
+
 Learning Outcomes: 
 Completed the given task , helps to gain the knowledge of basic Html web page
+
