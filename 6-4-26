@@ -1,0 +1,78 @@
+Work Summary :
+Implemented basic Create, Read, Update, and Delete operations using Mongoose with a MongoDB database. Designed schemas and models
+to structure the data efficiently. Built API endpoints in Express to handle each CRUD operation. Tested all routes using tools like
+Postman to ensure proper functionality. Gained understanding of database interaction 
+in a backend application.
+
+
+
+
+
+
+import express from "express";
+import mongoose from "mongoose";
+
+const app = express();
+app.use(express.json());
+
+mongoose.connect("mongodb://127.0.0.1:27017/crudDB")
+  .then(() => console.log("MongoDB Connected"))
+  .catch(err => console.log(err));
+
+const userSchema = new mongoose.Schema({
+  name: String,
+  email: String,
+  age: Number
+});
+
+const User = mongoose.model("User", userSchema);
+
+app.post("/users", async (req, res) => {
+  try {
+    const user = new User(req.body);
+    res.json(await user.save());
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+app.get("/users", async (req, res) => {
+  try {
+    res.json(await User.find());
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+app.get("/users/:id", async (req, res) => {
+  try {
+    res.json(await User.findById(req.params.id));
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+app.put("/users/:id", async (req, res) => {
+  try {
+    res.json(await User.findByIdAndUpdate(req.params.id, req.body, { new: true }));
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+app.delete("/users/:id", async (req, res) => {
+  try {
+    await User.findByIdAndDelete(req.params.id);
+    res.json({ message: "User deleted" });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+app.listen(3000, () => console.log("Server running on port 3000"));
+
+
+
+LEARNING OUTCOMES :
+Understood how to use Mongoose to interact with a MongoDB database.
+Learned to design schemas and models for structured and efficient data storage.
