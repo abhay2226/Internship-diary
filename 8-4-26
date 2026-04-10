@@ -1,0 +1,12 @@
+Work Summary :
+
+Added role-based access control by defining user roles such as admin and normal user. 
+Updated the user schema to include role information. 
+Created middleware to check roles before granting access to specific routes.
+Restricted sensitive operations (like delete/update) only to admin users. 
+Improved overall security and access management of the application.
+
+
+LLEARNING OUTCOMES :
+Learned how to implement role-based access control using user roles like admin and user.
+Understood how to restrict access to certain routes using middleware for better security.
